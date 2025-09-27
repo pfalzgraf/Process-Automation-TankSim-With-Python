@@ -1,4 +1,4 @@
-# Process-Automation Tank Simulation with Python
+# Process Automation Tank Simulation with Python
 
 ## Overview
 
